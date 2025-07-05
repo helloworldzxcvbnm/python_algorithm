@@ -1,1 +1,1 @@
-由于jupyter不知此turtle库，所以汉诺塔可视化只能采用snake库实现，难点在如何使用snake库实现
+由于jupyter不支持turtle库，所以汉诺塔可视化只能采用snake库实现，难点在如何使用snake库实现
